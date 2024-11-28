@@ -32,7 +32,7 @@ ul, ol {list-style-type: none;}
 
 .logo {font-family: "Raleway", sans-serif; font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;}
@@ -50,17 +50,17 @@ ul, ol {list-style-type: none;}
     letter-spacing: 0.02em;
     color: #2e2f42;} 
 
-/* резерв address 
-.contacts {}
-
-.contacts-list {}
+/* резерв address .contacts-list {}
 
 .contacts-item {} */
+
+.contacts {font-style: normal}
 
 .contacts-link {font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;}
+    letter-spacing: 0.02em;
+    color: #434455}
 
 .footer-page {background: #2e2f42;}
 
@@ -72,11 +72,11 @@ ul, ol {list-style-type: none;}
 
 .open-page {background-color: #2e2f42;}
 
-.open-h1 {font-weight: 700;
+.open-h-one {font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
-    /* text-align: center; */
+    text-align: center;
     color: #fff;}
 
 .open-button {background: #4d5ae5; 
@@ -92,75 +92,76 @@ ul, ol {list-style-type: none;}
 /* резерв features
 .features-page {}
     
-.features-h2 {}
+.features-h-two {}
     
 .features-list {}
     
 .features-item {} */
     
-.features-h3 {font-weight: 500;
+.features-h-three {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
     
-.features-text { /*font-weight: 400;*/
+.features-text { font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;} 
 
 .team-page {background-color: #f4f4fd;}
 
-.team-h2 {font-weight: 700;
+.team-h-two {font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
-    /*text-align: center;*/
+    text-transform: capitalize;
+    text-align: center;
     color: #2e2f42;}
 
-/* резерв team
-.team-list {}
+.team-list {background-color: #FFFFFF}
 
-.team-item {} */
+/* резерв team .team-item {} */
 
-.team-h3 {font-weight: 500;
+.team-h-three {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    /*text-align: center;*/
+    text-align: center;
     color: #2e2f42;}
 
-.team-text { /*font-weight: 400;*/
+.team-text { font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    /* text-align: center;*/ } 
+    text-align: center; } 
 
 /* резерв portfolio
 .portfolio-page {}
 
-.portfolio-row1 {}
+.portfolio-row-one {}
 
-.portfolio-row1-item {}
+.portfolio-row-one-item {}
 
-.portfolio-row2 {}
+.portfolio-row-two {}
 
-.portfolio-row2-item {}*/
+.portfolio-row-two-item {}*/
 
-.portfolio-h2 {font-weight: 700;
+.portfolio-h-two {font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
-    /*text-align: center;*/
+    text-transform: capitalize;
+    text-align: center;
     color: #2e2f42;}
 
-.portfolio-h3 {font-weight: 500;
+.portfolio-h-three {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
 
-.portfolio-text { /*font-weight: 400;*/
+.portfolio-text { font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
