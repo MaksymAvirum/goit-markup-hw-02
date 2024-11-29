@@ -1,7 +1,7 @@
 
 body {font-family: 'Roboto', sans-serif; 
     color: #434455; 
-    background-color: #fff; }
+    background-color: #ffffff; }
 
 /* варіант загальних стилів для тексту
 h1 {font-weight: 700;
@@ -90,14 +90,15 @@ ul, ol {list-style-type: none;}
 .open-button:hover, .open-button:focus {background-color: #404bbf;}
 
 /* резерв features
-.features-page {}
-    
+
+.features-page {} 
+
 .features-h-two {}
-    
-.features-list {}
-    
+
+.features-list {}  
+
 .features-item {} */
-    
+
 .features-h-three {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
