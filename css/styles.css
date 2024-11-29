@@ -79,7 +79,7 @@ ul, ol {list-style-type: none;}
     text-align: center;
     color: #fff;}
 
-.open-button {background: #4d5ae5; 
+.open-button { background: #4d5ae5; 
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -87,7 +87,7 @@ ul, ol {list-style-type: none;}
     color: #fff;
     cursor: pointer;} 
 
-.open-button:hover, .open-button:focus {background-color: #404bbf;}
+.open-button:hover, .open-button:focus { background-color: #404bbf;} 
 
 /* резерв features
 
@@ -99,20 +99,20 @@ ul, ol {list-style-type: none;}
 
 .features-item {} */
 
-.features-h-three {font-weight: 500;
+.features-h-three { font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;}
+    color: #2e2f42;} 
     
 .features-text { font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;} 
 
-.team-page {background-color: #f4f4fd;}
+.team-page { background-color: #f4f4fd;} 
 
-.team-h-two {font-weight: 700;
+.team-h-two { font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -120,16 +120,16 @@ ul, ol {list-style-type: none;}
     text-align: center;
     color: #2e2f42;}
 
-.team-list {background-color: #FFFFFF}
+.team-list { background-color: #FFFFFF} 
 
 /* резерв team .team-item {} */
 
-.team-h-three {font-weight: 500;
+.team-h-three { font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;}
+    color: #2e2f42;} 
 
 .team-text { font-weight: 400;
     font-size: 16px;
@@ -154,19 +154,19 @@ ul, ol {list-style-type: none;}
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
-    color: #2e2f42;}
+    color: #2e2f42;} 
 
 .portfolio-h-three {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;}
+    color: #2e2f42;} 
 
 .portfolio-text { font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #434455;}
+color: #434455;} 
 
 
 
