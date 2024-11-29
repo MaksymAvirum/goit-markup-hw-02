@@ -110,7 +110,7 @@ ul, ol {list-style-type: none;}
     line-height: 1.5;
     letter-spacing: 0.02em;} 
 
-.team-page { background-color: #f4f4fd;} 
+.team-page { background-color: #f4f4fd; } 
 
 .team-h-two { font-weight: 700;
     font-size: 36px;
@@ -118,18 +118,18 @@ ul, ol {list-style-type: none;}
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
-    color: #2e2f42;}
+    color: #2e2f42; }
 
-.team-list { background-color: #FFFFFF} 
+.team-item { background-color: #FFFFFF } 
 
-/* резерв team .team-item {} */
+/* резерв team .team-list {} */
 
 .team-h-three { font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;} 
+    color: #2e2f42; } 
 
 .team-text { font-weight: 400;
     font-size: 16px;
